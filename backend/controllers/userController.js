@@ -1,10 +1,8 @@
 import pg from 'pg';
+import 'dotenv/config';
 
 const { Pool } = pg;
-const pool = new Pool({
-  connectionString:
-    'postgresql://postgresdb_owner:npg_iBDgCQspy70o@ep-broad-mud-a8l7e2mb-pooler.eastus2.azure.neon.tech/postgresdb?sslmode=require',
-});
+const pool = new Pool({ connectionString: process.env.DATABASE_URL });
 
 //
 // register user
