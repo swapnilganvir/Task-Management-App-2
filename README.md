@@ -27,6 +27,8 @@
 ## About The Project
 This project is a full-stack web application that allows users to manage their daily tasks efficiently. Users can create, edit, delete, and mark tasks as completed while ensuring a seamless user experience with authentication and database integration..
 
+<b>Note: To use the demo please wait 1-2 minutes after opening the link, because the server gets down due to inactivity.</b>
+
 
 <!-- Tech Stack -->
 ## Tech Stack
