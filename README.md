@@ -30,6 +30,11 @@ This project is a full-stack web application that allows users to manage their d
 <b>Note: To use the demo please wait 1-2 minutes after opening the link, because the server gets down due to inactivity.</b>
 
 
+<img width="800" src="https://github.com/user-attachments/assets/1bd9bce2-081b-42c5-a8a2-0ba5db58576f">
+<img width="800" src="https://github.com/user-attachments/assets/2c0e4d8a-d3a8-4d37-883e-b6898aa6d616">
+<img width="800" src="https://github.com/user-attachments/assets/4b08d1b0-713a-453b-a89a-e5fc54243f82">
+
+
 <!-- Tech Stack -->
 ## Tech Stack
   * <b>Frontend</b>: React.js, React Router, Redux Toolkit, Material UI
